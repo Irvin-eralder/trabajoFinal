@@ -1,3 +1,9 @@
+"""
+trabajoFinal.py
+Autor: Tu Nombre
+Fecha: 2025-07-16
+Descripción: Script para el cálculo de comisiones en HGM SAC.
+"""
 import pandas as pd
 df = pd.read_csv("archivos\\REGISTO VENTAS ENERO 2025 PAGO COMISIONES.CSV")
 
