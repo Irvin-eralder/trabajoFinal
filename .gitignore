@@ -1,0 +1,12 @@
+# Archivos de Python compilados
+*.pyc
+__pycache__/
+
+# Configuración de entornos o IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema (macOS)
+.DS_Store
+
+echo "*.log" >> .gitignore
